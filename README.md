@@ -2,6 +2,9 @@
 
 A Streamlit-based web application that generates and evaluates quizzes for UPSC preparation using AI-powered question generation.
 
+## 🚀 [Live Demo](https://quizgeneratorapp.streamlit.app/) 
+
+
 ## Features
 
 - **AI-Powered Question Generation:** Automatically generates Multiple Choice and Fill in the Blank questions using the Groq LLM API.
@@ -23,7 +26,7 @@ A Streamlit-based web application that generates and evaluates quizzes for UPSC 
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/yourusername/upsc-quiz-generator.git
-    cd upsc-quiz-generator
+    cd quiz-generator
     ```
 
 2. **Install dependencies:**
@@ -41,7 +44,7 @@ A Streamlit-based web application that generates and evaluates quizzes for UPSC 
 ### Running the App
 
 ```bash
-streamlit run upsc_project/app.py
+streamlit run app.py
 ```
 
 The app will open in your browser at `http://localhost:8501`.
@@ -71,4 +74,4 @@ upsc_project/
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 
-**Developed for UPSC/PCS aspirants to practice and evaluate their knowledge interactively.**
+**Developed for UPSC aspirants to practice and evaluate their knowledge interactively.**
