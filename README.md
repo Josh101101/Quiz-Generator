@@ -2,7 +2,8 @@
 
 A Streamlit-based web application that generates and evaluates quizzes for UPSC preparation using AI-powered question generation.
 
-## 🚀 [Live Demo](https://quizgeneratorapp.streamlit.app/) 
+## 🚀 [Live Demo]
+- https://quizgeneratorapp.streamlit.app/
 
 
 ## Features
